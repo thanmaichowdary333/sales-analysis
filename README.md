@@ -27,17 +27,6 @@ Second Class, First Class, and Same Day follow with smaller shares.
 A scrollable list shows the cities where sales occurred, but the amounts per city are not specified.
 This report offers a detailed look at sales performance across different dimensions like region, segment, order date, product sub-categories, and shipping mode. It highlights high-selling product categories and regions, showing areas that contribute most to overall sales and profit.
 
-
-
-
-
-
-You said:
-and the insights
-ChatGPT said:
-ChatGPT
-Here are the key insights based on the sales analysis report:
-
 1. High-Performing Regions
 West is the top-performing region, generating the highest sales. The East follows closely, indicating that these two regions are the most profitable.
 South and Central regions contribute less in comparison, suggesting potential opportunities for growth or a need for targeted marketing in these areas.
